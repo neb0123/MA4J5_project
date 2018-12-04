@@ -1,4 +1,4 @@
-# MA4J5_project
+# MA4J5 project
 Warwick University - Structures of Complex Systems - project
 
 Ben Farrar & James Colbourn
