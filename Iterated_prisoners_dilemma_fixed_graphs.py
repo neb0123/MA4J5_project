@@ -106,7 +106,7 @@ def _random_subset(seq,m):
 # Performs an update to the graph based on preferential attatchment.
 def update_graph_BA(G_tmp,D_tmp,m):
     G = G_tmp.copy()
-    D = copy(D_tmp)
+    D = copy.copy(D_tmp)
     
     # Remove all nodes v in D
     for v in D:
